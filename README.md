@@ -109,8 +109,7 @@ Operational automation flow with email notifications;
 Configured and integrated hardware simulator.
 
 Demonstration video link:
-https://www.youtube.com/watch?v=aiyDMeeotSWY
-
+https://youtu.be/m0EsdiDIDmU
 Delivered files:
 
 DontForget.msapp – Power Apps application export;
